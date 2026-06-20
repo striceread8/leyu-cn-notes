@@ -1,2 +1,14 @@
 # leyu-cn-notes
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
